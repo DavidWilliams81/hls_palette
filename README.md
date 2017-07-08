@@ -6,5 +6,5 @@ This is a [MagicaVoxel](https://ephtracy.github.io/) palette based on a series o
 # Usage
 Download [hls.png](/hls.png) and place in in your MagicaVoxel 'palette' folder. Then click 'Open' from the 'Palette' panel on the left-hand side and select the downloaded file.
 
-# Licence
-The code and resulting palette are released to the public domain under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) licence.
+# License
+The code and resulting palette are released to the public domain under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license.
